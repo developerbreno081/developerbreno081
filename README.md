@@ -5,3 +5,5 @@
 
 ![Breno Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=developerbreno081&show_icons=true&theme=onedark)
 
+A tecnologia move o mundo.
+
